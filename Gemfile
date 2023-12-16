@@ -31,3 +31,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 
 gem "webrick", "~> 1.8"
+gem "nokogiri", "~> 1.16.0.rc1"
