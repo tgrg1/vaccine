@@ -46,3 +46,16 @@ Edward Jenner's development was a breakthrough in vaccine technology. This is an
 ### Later developments 
 
 Many vaccines were developed in the coming centuries, including the numerous vaccines developed by French biochemist Louis Pasteur in the late 19th century. Possibly his most important achievement was his rabies vaccine, though he also developed a cholera and anthrax vaccine for chickens and cattle, respectively.
+
+In the 1930s, the electron microscope was invented. This new technology allowed virologists to analyze viruses for the first time. The electron microscope revolutionized vaccine development because scientists could see if a vaccine would work without waiting for a full infection. Scientists analyzed and created vaccines for the flu, polio, measles, and others.
+
+Between the 1950s and the 1970s, there was a global cooperation to eradicate smallpox. Eventually, in 1978, smallpox became the first (and so far only) virus to become completely eradicated.
+
+Just a few years ago, in late 2019, the novel coronavirus was first detected. The disease that virus causes, COVID-19, was seen by governments around the world as an urgent issue. With the help of modern medical developments, vaccines against COVID-19 were created in only a year.
+
+# Sources
+
+Sources and more information can be found at the following links: 
+* <https://www.cdc.gov/vaccines/hcp/conversations/understanding-vacc-work.html>
+* <https://www.pfizer.com/news/articles/how_vaccines_work_immune_response_and_the_body_s_reaction>
+* <https://historyofvaccines.org/history/vaccine-timeline/overview>
